@@ -10,3 +10,4 @@ Try merge without fast forward 2.
 Try merge without fast forward 3.
 Try merge without fast forward 4.
 Try merge without fast forward 5.
+Try merge without fast forward 6.
