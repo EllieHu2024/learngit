@@ -8,5 +8,4 @@ Creating another branch is also quick and simple.
 Try merge without fast forward.
 Try merge without fast forward 2.
 Try merge without fast forward 3.
-<<<<<<< HEAD
 Try merge without fast forward 4.
